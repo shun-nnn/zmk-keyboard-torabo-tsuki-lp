@@ -15,7 +15,7 @@
                            <&zip_scroll_transform (INPUT_TRANSFORM_X_INVERT)>;
     };
 };
-j
+
 &size_s_transform {
     col-offset = <7>;
 };
